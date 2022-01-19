@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Javascript - Data types</h1>
-
-<script>
-
 var number = 10; // Number
 	var text = "I am a String"; //String
     var cars = ["Merc", "BMW", "Volvo"]; //Array
@@ -34,7 +27,3 @@ var abhay = null;
 	console.log(undefined, typeof undefined);
 	
 	
-</script>
-	
-</body>
-</html> 
